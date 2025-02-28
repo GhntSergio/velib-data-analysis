@@ -1,0 +1,13 @@
+LICENSE.md
+MANIFEST.in
+pyproject.toml
+setup.py
+docs/README.md
+velib_data_analysis/__init__.py
+velib_data_analysis/velib_monitoring.py
+velib_monitoring.egg-info/PKG-INFO
+velib_monitoring.egg-info/SOURCES.txt
+velib_monitoring.egg-info/dependency_links.txt
+velib_monitoring.egg-info/entry_points.txt
+velib_monitoring.egg-info/requires.txt
+velib_monitoring.egg-info/top_level.txt

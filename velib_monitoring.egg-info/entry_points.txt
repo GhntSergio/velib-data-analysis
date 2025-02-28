@@ -1,0 +1,2 @@
+[console_scripts]
+velib-monitor = velib_data_analysis.velib_monitoring:main

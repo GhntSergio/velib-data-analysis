@@ -1,0 +1,8 @@
+LICENSE.md
+setup.py
+velib_data_analysis.egg-info/PKG-INFO
+velib_data_analysis.egg-info/SOURCES.txt
+velib_data_analysis.egg-info/dependency_links.txt
+velib_data_analysis.egg-info/entry_points.txt
+velib_data_analysis.egg-info/requires.txt
+velib_data_analysis.egg-info/top_level.txt

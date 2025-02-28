@@ -1,0 +1,19 @@
+# Ignorer les fichiers et dossiers spécifiques au projet
+
+# Fichiers de l'environnement virtuel
+venv/
+*.pyc
+__pycache__/
+
+# Données et sorties générées
+/data/*.csv
+/data/*.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Configurations et fichiers système
+.DS_Store
+*.log
+*.bak
+
