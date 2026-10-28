@@ -1,5 +1,7 @@
 # Analyse des données Vélib en temps réel 🚲📊
 
+> 🇬🇧 **English summary:** Real-time monitoring and analysis of Paris Vélib' bike-sharing data: API extraction, CSV storage, alerts on empty stations and interactive Matplotlib/Folium visualizations. Available on PyPI as `velib-monitoring`.
+
 ## Description
 Ce projet permet d'explorer et d'analyser les données en temps réel du service Vélib' à Paris.
 Il comprend :
